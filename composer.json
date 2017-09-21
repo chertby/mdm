@@ -1,0 +1,9 @@
+{
+    "name": "mdm/assistent",
+    "type": "project",
+    "description": "PHP telegram bot",
+    "require": {
+        "php": ">=5.5",
+        "longman/telegram-bot": "*"
+    }
+}
