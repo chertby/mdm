@@ -4,6 +4,6 @@
     "description": "PHP telegram bot",
     "require": {
         "php": ">=5.5",
-        "longman/telegram-bot": "*"
+        "longman/telegram-bot": "^0.49.0"
     }
 }
